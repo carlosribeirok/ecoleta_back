@@ -31,7 +31,7 @@ npm run seed
 ```
 Prepare seu ambiente de trabalho, acesse o [ecoleta_front].
 
-## Desenvolvimento
+## :rocket: Desenvolvimento
 
 Para executar em modo de desenvolvimento, executar: 
 
